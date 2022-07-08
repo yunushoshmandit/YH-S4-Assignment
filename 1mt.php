@@ -1,3 +1,7 @@
+<html>
+    <title>Multiplication table</title>
+</html>
+
 <?php
 
 $table = 2;
